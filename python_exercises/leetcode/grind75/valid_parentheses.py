@@ -26,6 +26,6 @@ class Solution:
                 pass  # Ignore characters that aren't parentheses
         return len(stack) == 0
 
-# solution_instance = Solution()
-# result = solution_instance.isValid("1()[]")
-# print(result)
+solution_instance = Solution()
+result = solution_instance.isValid("1()[]")
+print(result)
