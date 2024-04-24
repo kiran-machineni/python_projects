@@ -13,9 +13,6 @@
 - Can Make Arithmetic Progression From Sequence
 - Monotonic Array
 - Roman to Integer
-- Built-In Functions
-- Length of Last Word
-- To Lower Case
 
 **Simulation**
 
